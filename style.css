@@ -1,0 +1,14 @@
+.square{
+  height: 125px;
+  width: 125px;
+  background-color: red;
+}
+
+#circle {
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+/* > * anything that is a child of */
